@@ -25,3 +25,8 @@ Qt GUI 클라이언트와 통신하며, 안정적인 데이터 처리와 객체 
 - **Language:** C++ (Standard 17/20)
 - **Network:** Winsock2 API (TCP/IP)
 - **Design Pattern:** Singleton Pattern (Server Instance), Command Pattern
+
+---
+### 🔗 GUI Client
+이 서버와 연결되는 클라이언트 코드는 아래 링크에서 확인할 수 있습니다.
+👉 [Chat Client Repository 바로가기](https://github.com/jungdae5340-lang/Simple-Chat-Client)
